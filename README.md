@@ -1,7 +1,7 @@
 
 ### Hi there 👋, my name is Akshata
 #### I am android developer
-![I am android developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am android developer]blob:https://snappa.com/01c68286-c0b2-4c18-8c32-a660fc544c0b
 
 I'm second year student. I love making projects on android and ready to contribute in different projects.
 
