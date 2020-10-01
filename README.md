@@ -1,7 +1,7 @@
 
 ### Hi there 👋, my name is Akshata
 #### I am android developer
-![I am android developer]blob:https://snappa.com/01c68286-c0b2-4c18-8c32-a660fc544c0b
+![I am android developer]blob:(https://app/graphic/bb46aca7-65c7-40fa-9969-73acfa43dda1)
 
 I'm second year student. I love making projects on android and ready to contribute in different projects.
 
