@@ -1,7 +1,7 @@
 
 ### Hi there 👋, my name is Akshata
 #### I am android developer
-![I am android developer](https://github.com/akshatasarde/akshatasarde/blob/master/Untitled%20Design.png)
+![I am android developer](https://github.com/akshatasarde/akshatasarde/blob/master/coffee.png)
 
 I'm second year student. I love making projects on android and ready to contribute in different projects.
 
