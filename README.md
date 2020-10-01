@@ -1,7 +1,7 @@
 
 ### Hi there 👋, my name is Akshata
 #### I am android developer
-![I am android developer]blob:(https://app/graphic/bb46aca7-65c7-40fa-9969-73acfa43dda1)
+![I am android developer]blob:
 
 I'm second year student. I love making projects on android and ready to contribute in different projects.
 
