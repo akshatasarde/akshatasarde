@@ -3,7 +3,7 @@
 #### I am android developer
 ![I am android developer](https://github.com/akshatasarde/akshatasarde/blob/master/coffee.png)
 
-I'm second year student. I love making projects on android and ready to contribute in different projects.
+I'm third year student. I love making projects on android and ready to contribute in different projects.
 
 Skills: Java/ Android/ Git
 
