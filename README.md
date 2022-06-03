@@ -1,3 +1,3 @@
 
-### Hi there 👋, my name is Akshat
+### Hi there 👋, my name is Akshata
 
